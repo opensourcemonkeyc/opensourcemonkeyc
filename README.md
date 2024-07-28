@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @opensourcemonkeyc
 - 👀 I’m interested in low level coding. 
-- 🌱 I’m currently learning Assemby.
+- 🌱 I’m currently learning Assembly.
 - 💞️ I’m looking to collaborate on nothing yet. 
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him/his
